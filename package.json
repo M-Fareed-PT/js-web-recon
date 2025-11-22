@@ -1,0 +1,14 @@
+{
+  "name": "web-recon",
+  "version": "1.0.0",
+  "description": "Simple Web Recon Tool for lab demos",
+  "main": "recon.js",
+  "scripts": {
+    "start": "node recon.js"
+  },
+  "author": "Mohamad Fared",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.13.2"
+  }
+}
